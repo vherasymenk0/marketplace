@@ -1,0 +1,1 @@
+export { FailedDetails } from './FailedDetails'

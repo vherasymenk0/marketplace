@@ -1,0 +1,1 @@
+export { CreateVendorPasswordFormTemplate } from './CreateVendorPasswordFormTemplate'

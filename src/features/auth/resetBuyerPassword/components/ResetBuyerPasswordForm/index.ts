@@ -1,0 +1,1 @@
+export { ResetBuyerPasswordForm } from './ResetBuyerPasswordForm'

@@ -1,0 +1,1 @@
+export { ForgotBuyerPasswordForm } from './ForgotBuyerPasswordForm'

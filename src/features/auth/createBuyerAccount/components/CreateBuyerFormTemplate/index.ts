@@ -1,0 +1,1 @@
+export { CreateBuyerFormTemplate } from './CreateBuyerFormTemplate'

@@ -1,0 +1,64 @@
+{
+  "compilerOptions": {
+    "module": "ESNext",
+    "moduleResolution": "node",
+    "target": "es2017",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ],
+    "outDir": "public",
+    "baseUrl": ".",
+    "allowJs": true,
+    "checkJs": true,
+    "jsx": "preserve",
+    "resolveJsonModule": true,
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "skipDefaultLibCheck": true,
+    "noEmit": true,
+    "isolatedModules": true,
+    "strict": true,
+    "allowUnusedLabels": false,
+    "allowUnreachableCode": false,
+    "noFallthroughCasesInSwitch": true,
+    "noImplicitOverride": true,
+    "noImplicitReturns": true,
+    "noPropertyAccessFromIndexSignature": false,
+    "noUncheckedIndexedAccess": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "useUnknownInCatchVariables": true,
+    "incremental": true,
+    "paths": {
+      "~/*": ["./src/*"],
+      "@public/*": ["./public/*"],
+      "@config/*": ["./config/*"],
+    }
+  },
+  "include": [
+    "**/*.ts",
+    "**/*.tsx",
+    ".next/types/**/*.ts",
+    "jest.config.js",
+    "jest.setup.js",
+    ".eslintrc.js",
+    ".svgrrc.js",
+    "next-env.d.ts",
+    "next-additional.d.ts",
+    "middleware.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    ".next"
+  ],
+}

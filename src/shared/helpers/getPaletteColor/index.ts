@@ -1,0 +1,1 @@
+export { getPaletteColor } from './getPaletteColor'

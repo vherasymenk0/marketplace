@@ -1,0 +1,1 @@
+export { SignInBuyerFormTemplate } from './SignInBuyerFormTemplate'

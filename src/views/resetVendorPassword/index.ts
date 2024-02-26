@@ -1,0 +1,1 @@
+export { ResetVendorPassword } from './ResetVendorPassword'

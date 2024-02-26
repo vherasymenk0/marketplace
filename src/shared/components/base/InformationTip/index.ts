@@ -1,0 +1,1 @@
+export { InformationTip } from './InformationTip'

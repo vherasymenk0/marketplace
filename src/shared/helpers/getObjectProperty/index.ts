@@ -1,0 +1,1 @@
+export { getObjectProperty } from './getObjectProperty'

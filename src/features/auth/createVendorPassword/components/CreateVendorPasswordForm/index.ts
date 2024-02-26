@@ -1,0 +1,1 @@
+export { CreateVendorPasswordForm } from './CreateVendorPasswordForm'

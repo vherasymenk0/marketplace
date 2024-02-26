@@ -1,0 +1,1 @@
+export { SignInVendorFormTemplate } from './SignInVendorFormTemplate'

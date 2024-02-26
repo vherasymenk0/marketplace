@@ -1,0 +1,1 @@
+export { ResetVendorPasswordLinkExpired } from './ResetVendorPasswordLinkExpired'

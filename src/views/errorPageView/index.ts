@@ -1,0 +1,1 @@
+export { ErrorPageView } from './ErrorPageView'

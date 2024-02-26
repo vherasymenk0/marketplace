@@ -1,0 +1,1 @@
+export { DeactivatedMessage } from './DeactivatedMessage'

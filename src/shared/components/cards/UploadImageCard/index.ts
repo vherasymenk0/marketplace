@@ -1,0 +1,1 @@
+export { UploadImageCard } from './UploadImageCard'

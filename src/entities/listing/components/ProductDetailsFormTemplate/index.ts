@@ -1,0 +1,1 @@
+export { ProductDetailsFormTemplate } from './ProductDetailsFormTemplate'

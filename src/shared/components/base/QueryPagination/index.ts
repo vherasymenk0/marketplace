@@ -1,0 +1,1 @@
+export { QueryPagination } from './QueryPagination'
